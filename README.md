@@ -16,7 +16,7 @@ From simple console games to small real-world applications — this repo shows h
 
 🕹️ Features fun games, smart utilities, and interactive mini projects
 
-💻 100% built with pure Python — no heavy frameworks
+💻 100% built with pure Python — no heavy frameworks.
 
 
 🔥 Some Project Ideas Inside
