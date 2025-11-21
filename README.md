@@ -19,7 +19,7 @@ From simple console games to small real-world applications — this repo shows h
 💻 100% built with pure Python — no heavy frameworks.
 
 
-🔥 Some Project Ideas Inside
+🔥 Some Project Ideas Inside.
 
 Number Guessing Game 🎯
 
