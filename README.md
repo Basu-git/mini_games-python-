@@ -22,7 +22,7 @@ From simple console games to small real-world applications — this repo shows h
 🔥 Some Project Ideas Inside.
 
 Number Guessing Game 🎯
-
+..
 Rock Paper Scissors ✊✋✌️
 
 Quiz Game 🧠
