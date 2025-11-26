@@ -68,4 +68,4 @@ If these projects helped you, don’t forget to give the repository a **star**! 
 
 ---
 
-Let me know if you want me to add badges, screenshots, or installation steps!
+Let me know if you want me to add badges, screenshots, or installation steps!..
