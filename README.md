@@ -13,7 +13,7 @@ Below is a clean and neatly labelled table summarizing each project...
 | **Calculator**        | A simple arithmetic calculator.     | Performs addition, subtraction, multiplication, and division. | Functions, conditionals            |
 | **Contact Book**      | Stores and manages contact details. | Add, view, search, and delete contacts.                       | Dictionaries, file handling, loops |
 | **Coffee App**        | Basic café ordering system.         | Menu display, order taking, bill calculation.                 | Classes, objects, dictionaries     |
-| **Bus Ticket System** | Simulates booking bus tickets.      | Ticket booking, user choice, fare calculation.                | Loops, conditionals, user input    |
+| **Bus Ticket System** | Simulates booking bus tickets.      | Ticket booking, user choice, fare calculation.                | Loops, conditionals, user input .. |
 
 ---
 
