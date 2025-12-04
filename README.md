@@ -2,7 +2,7 @@
 
 This repository contains multiple beginner‑friendly Python mini‑projects that cover core concepts like functions, OOP, file handling, loops, and simple logic building.
 
-Below is a clean and neatly labelled table summarizing each project....
+Below is a clean and neatly labelled table summarizing each project......
 ..
 ---
 
