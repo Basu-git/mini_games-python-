@@ -6,14 +6,14 @@ Below is a clean and neatly labelled table summarizing each project........
 ..
 ---
 
-## 📌 **Project Overview Table**
+| **Project Name**      | **Description**                     | **Key Features**                                                    | **Concepts Used**                       |
+| --------------------- | ----------------------------------- | ------------------------------------------------------------------- | --------------------------------------- |
+| **Calculator**        | A simple arithmetic calculator.     | Performs addition, subtraction, multiplication, and division.       | Functions, conditionals                 |
+| **Contact Book**      | Stores and manages contact details. | Add, view, search, delete contacts.                                 | Dictionaries, file handling, loops      |
+| **Coffee App**        | Basic café ordering system.         | Menu display, order taking, sales tracking, last-order receipt.     | Classes, objects, dictionaries          |
+| **Bus Ticket System** | Simulates booking bus tickets.      | Ticket booking, seat selection, fare calculation.                   | Loops, conditionals, user input         |
+| **Bank Simulation**   | Mimics basic banking operations.    | Deposit, withdraw, balance check, account creation, account search. | OOP, encapsulation, methods, validation |
 
-| **Project Name**      | **Description**                     | **Key Features**                                              | **Concepts Used**                  |
-| --------------------- | ----------------------------------- | ------------------------------------------------------------- | ---------------------------------- |
-| **Calculator**        | A simple arithmetic calculator.     | Performs addition, subtraction, multiplication, and division. | Functions, conditionals            |
-| **Contact Book**      | Stores and manages contact details. | Add, view, search, and delete contacts.                       | Dictionaries, file handling, loops |
-| **Coffee App**        | Basic café ordering system.         | Menu display, order taking, bill calculation.                 | Classes, objects, dictionaries     |
-| **Bus Ticket System** | Simulates booking bus tickets.      | Ticket booking, user choice, fare calculation.                | Loops, conditionals, user input .. |
 
 ---
 
