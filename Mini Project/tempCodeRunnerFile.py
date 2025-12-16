@@ -1,1 +1,1 @@
-coffee
+ print(f"{self.name} is passed")
