@@ -1,0 +1,22 @@
+Name : John
+Roll_no : 9
+------------Marks-----------
+maths--45
+physics--55
+chemistry--75
+Biology--78
+--------------------
+Average is 63.25
+Grade : C
+
+Name : Jockey
+Roll_no : 10
+------------Marks-----------
+maths--99
+physics--99
+chemistry--99
+Biology--34
+--------------------
+Average is 82.75
+Grade : B
+

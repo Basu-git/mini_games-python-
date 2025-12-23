@@ -1,1 +1,1 @@
- print(f"{self.name} is passed")
+card.append(reportcard.generate(a))
